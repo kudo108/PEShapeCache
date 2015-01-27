@@ -4,7 +4,7 @@ Physics Editor parser for cocos2dx integrated Physics
 Original PEShapeCache from here:
 https://github.com/jslim89/Cocos2d-x-PhysicsEditor-demo
 
-$ Modification:
+Modification:
 - remove some function, make memory management more clearly
 - support scaleContentFactor (the body will scale to match the resources)
 
